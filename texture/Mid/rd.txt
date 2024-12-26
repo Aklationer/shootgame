@@ -1,0 +1,13 @@
+texture/Mid/mid01.png
+texture/Mid/mid02.png
+texture/Mid/mid03.png
+texture/Mid/mid04.png
+texture/Mid/mid05.png
+texture/Mid/mid06.png
+texture/Mid/mid07.png
+texture/Mid/mid08.png
+texture/Mid/mid09.png
+texture/Mid/mid10.png
+texture/Mid/mid11.png
+texture/Mid/mid12.png
+texture/Mid/mid13.png

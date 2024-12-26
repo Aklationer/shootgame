@@ -1,0 +1,7 @@
+﻿  Game.cpp
+D:\c++ project\big game\Game.h(3,10): fatal error C1083: 無法開啟包含檔案: 'SFML/Audio.hpp': No such file or directory
+  main.cpp
+D:\c++ project\big game\Game.h(3,10): fatal error C1083: 無法開啟包含檔案: 'SFML/Audio.hpp': No such file or directory
+  Player.cpp
+D:\c++ project\big game\Player.h(3,10): fatal error C1083: 無法開啟包含檔案: 'SFML/Audio.hpp': No such file or directory
+  正在產生程式碼...

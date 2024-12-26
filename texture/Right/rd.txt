@@ -1,0 +1,13 @@
+texture/Right/right01.png
+texture/Right/right02.png
+texture/Right/right03.png
+texture/Right/right04.png
+texture/Right/right05.png
+texture/Right/right06.png
+texture/Right/right07.png
+texture/Right/right08.png
+texture/Right/right09.png
+texture/Right/right10.png
+texture/Right/right11.png
+texture/Right/right12.png
+texture/Right/right13.png

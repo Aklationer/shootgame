@@ -1,0 +1,13 @@
+texture/Left/left01.png
+texture/Left/left02.png
+texture/Left/left03.png
+texture/Left/left04.png
+texture/Left/left05.png
+texture/Left/left06.png
+texture/Left/left07.png
+texture/Left/left08.png
+texture/Left/left09.png
+texture/Left/left10.png
+texture/Left/left11.png
+texture/Left/left12.png
+texture/Left/left13.png

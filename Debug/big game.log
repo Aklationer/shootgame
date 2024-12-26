@@ -1,0 +1,33 @@
+﻿  Game.cpp
+D:\c++ project\big game\Game.cpp(276,37): warning C4018: '<': signed/unsigned 不相符
+D:\c++ project\big game\Game.cpp(277,108): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\c++ project\big game\Game.cpp(307,112): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\c++ project\big game\Game.cpp(329,27): warning C4018: '<': signed/unsigned 不相符
+D:\c++ project\big game\Game.cpp(485,184): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\c++ project\big game\Game.cpp(491,184): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\c++ project\big game\Game.cpp(498,184): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\c++ project\big game\Game.cpp(499,153): warning C4244: '引數': 將 'T' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\c++ project\big game\Arr.h(60,27): warning C4018: '>=': signed/unsigned 不相符
+D:\c++ project\big game\Arr.h(59): message : 編譯 類別 樣板 成員函式 'T &Arr<T>::operator [](int)' 期間
+          with
+          [
+              T=Bullet
+          ]
+D:\c++ project\big game\Game.cpp(239): message : 請參考正在進行編譯的函式 樣板 具現化 'T &Arr<T>::operator [](int)'
+          with
+          [
+              T=Bullet
+          ]
+D:\c++ project\big game\Player.h(21): message : 請參考正在進行編譯的 類別 樣板 具現化 'Arr<Bullet>'
+D:\c++ project\big game\Arr.h(105,25): warning C4018: '>=': signed/unsigned 不相符
+D:\c++ project\big game\Arr.h(104): message : 編譯 類別 樣板 成員函式 'void Arr<Bullet>::erase(int)' 期間
+D:\c++ project\big game\Game.cpp(241): message : 請參考正在進行編譯的函式 樣板 具現化 'void Arr<Bullet>::erase(int)'
+  big game.vcxproj -> D:\c++ project\big game\Debug\big game.exe

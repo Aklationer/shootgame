@@ -1,0 +1,11 @@
+D:\c++ project\big game\Debug\big game.vcxproj.CopyComplete
+D:\c++ project\big game\Debug\big game.exe
+D:\c++ project\big game\Debug\sfml-graphics-d-2.dll
+D:\c++ project\big game\Debug\sfml-window-d-2.dll
+D:\c++ project\big game\Debug\sfml-system-d-2.dll
+D:\c++ project\big game\Debug\freetyped.dll
+D:\c++ project\big game\Debug\zlibd1.dll
+D:\c++ project\big game\Debug\bz2d.dll
+D:\c++ project\big game\Debug\libpng16d.dll
+D:\c++ project\big game\Debug\brotlidec.dll
+D:\c++ project\big game\Debug\brotlicommon.dll

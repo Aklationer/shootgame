@@ -1,0 +1,8 @@
+texture/Skill/skill01.png
+texture/Skill/skill02.png
+texture/Skill/skill03.png
+texture/Skill/skill04.png
+texture/Skill/skill05.png
+texture/Skill/skill06.png
+texture/Skill/skill07.png
+texture/Skill/skill08.png
